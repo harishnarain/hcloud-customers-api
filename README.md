@@ -41,7 +41,7 @@ Customers records would be stored in MongoDB.
 }
 ```
 3. Create a local.settings.json file with the following and update the MongoDatabase attribute with the appropriate MongoDB connection string. (user, password, and database name)
-```
+```JSON
 {
   "IsEncrypted": false,
   "Values": {
