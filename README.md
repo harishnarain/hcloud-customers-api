@@ -62,5 +62,8 @@ Documentation coming soon
 ### CRUD operations
 Documentation coming soon
 
+## License
+Apache 2.0 License
+
 ## Contributing
 Pull requests are welcome.
